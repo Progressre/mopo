@@ -1,0 +1,1 @@
+ build\\web\\favicon.png build\\web\\icons\\Icon-192.png build\\web\\icons\\Icon-512.png build\\web\\index.html build\\web\\manifest.json:  E:\\hi\\mopo\\web\\favicon.png E:\\hi\\mopo\\web\\icons\\Icon-192.png E:\\hi\\mopo\\web\\icons\\Icon-512.png E:\\hi\\mopo\\web\\index.html E:\\hi\\mopo\\web\\manifest.json

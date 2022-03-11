@@ -1,0 +1,4 @@
+#Fri Mar 11 12:31:25 IST 2022
+base.0=E\:\\hi\\mopo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
